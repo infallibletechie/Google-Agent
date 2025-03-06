@@ -23,4 +23,10 @@
     right: 16px;
   }
 </style>
+  <body>
+    <h1>Welcome to the Chat!!!></h1>
+    <div>
+      This Chat makes use of <a href="https://www.infallibletechie.com">InfallibleTechie</a> Site contents.
+    </div>
+  </body>
 </html>
